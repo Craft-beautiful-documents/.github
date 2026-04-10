@@ -1,7 +1,7 @@
 #  Craft Documentation Hub
 
 <div align="center">
-  <img src="[https://img.gta5-mods.com/.png](https://i.ytimg.com/vi/OJolW1Wanec/maxresdefault.jpg)" alt="Craft Logo"/>
+  <img src="https://i.ytimg.com/vi/VKexnw2UhYo/maxresdefault.jpg" alt="Craft Logo"/>
 </div>
 
 **Optimize your knowledge management pipeline with expert resources for Craft beautiful documents knowledge base.**
